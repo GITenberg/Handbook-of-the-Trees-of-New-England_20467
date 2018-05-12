@@ -1,0 +1,36 @@
+_repo: Handbook-of-the-Trees-of-New-England_20467
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 20467-h/images/img.cover.jpg
+creator:
+  authors:
+  - agent_name: Dame, Lorin Low
+    birthdate: 1838
+    deathdate: 1903
+    gutenberg_agent_id: '9315'
+    url: http://www.gutenberg.org/2009/agents/9315
+  - agent_name: Brooks, Henry M. (Henry Mason)
+    alias: Brooks, Henry Mason
+    birthdate: 1822
+    deathdate: 1898
+    gutenberg_agent_id: '6693'
+    url: http://www.gutenberg.org/2009/agents/6693
+description: ''
+gutenberg_bookshelf:
+- Natural History
+- Botany
+gutenberg_issued: '2007-01-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20467'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Trees -- North America'
+- !lcsh 'Trees -- New England'
+- !lcc 'QK'
+title: Handbook of the Trees of New England
+url: http://www.gutenberg.org/ebooks/20467
